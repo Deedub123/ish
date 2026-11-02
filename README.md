@@ -1,2 +1,2 @@
-# ish
-iSH setup scripts
+# Claude Code Repo
+
